@@ -1,0 +1,38 @@
+permission: plugincategories.use
+admin-permission: plugincategories.admin
+
+category-detection: true
+hover-messages: true
+plugin-hover: false
+
+commands:
+- pl
+- plugins
+
+navigation-command: pl
+
+excluded-folders:
+- update
+
+rescan-interval-seconds: 30
+debug: false
+
+colors:
+  success: "&a"
+  failed: "&c"
+  category: "&f"
+  header: "&f"
+  back: "&c"
+  back-bold: true
+
+count-format: "Plugins (%success%) (%failed%)"
+category-prefix: "- "
+category-hover: "&7Click to view &f%category%"
+back-hover: "&7Click to go back"
+back-button-padding: 24
+
+messages:
+  scanning: "&7Plugin data is still loading, please try again in a moment."
+  unknown-category: "&cUnknown category: &f%category%"
+  no-permission: "&cYou do not have permission to use this command."
+  reloaded: "&aPlugin Categories configuration reloaded and a rescan was started."
