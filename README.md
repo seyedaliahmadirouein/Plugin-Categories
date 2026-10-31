@@ -1,2 +1,2 @@
-<img src="imagz/Banner.png" alt="p">
+<img src="Plugin-Categories/Imagez/Banner.png" alt="banner">
 <div align="center">
