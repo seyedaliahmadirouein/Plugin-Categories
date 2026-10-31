@@ -1,2 +1,3 @@
-<img src="Plugin-Categories/Imagez/Banner.png" alt="banner">
-<div align="center">
+<p align="center">
+  <img src="Imagez/Banner.png" alt="banner">
+</p>
